@@ -1,0 +1,9 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'org.redlich.decorator.Laboratory'
+
+jar {
+    baseName = 'decorator'
+    version = '0.1.0'
+    }

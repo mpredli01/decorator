@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="3.9" timestamp="2007-01-07T10:56:47.296" elapsedTime="0s">
+<file name="C:\java-apps\publications\decorator\src\decorator\Laboratory.java">
+<violation line="7" rule="UseSingleton" ruleset="Design Rules" package="decorator" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UseSingleton" priority="3">
+All methods are static.  Consider using Singleton instead.  Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+</file>
+</pmd>
